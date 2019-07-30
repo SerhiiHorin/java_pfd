@@ -3,6 +3,11 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/java_pfd.iml" filepath="$PROJECT_DIR$/.idea/modules/java_pfd.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/java_pfd.main.iml" filepath="$PROJECT_DIR$/.idea/modules/java_pfd.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/java_pfd.test.iml" filepath="$PROJECT_DIR$/.idea/modules/java_pfd.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sandbox.iml" filepath="$PROJECT_DIR$/.idea/modules/sandbox.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sandbox.main.iml" filepath="$PROJECT_DIR$/.idea/modules/sandbox.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sandbox.test.iml" filepath="$PROJECT_DIR$/.idea/modules/sandbox.test.iml" />
     </modules>
   </component>
 </project>
